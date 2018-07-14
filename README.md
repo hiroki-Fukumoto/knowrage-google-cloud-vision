@@ -1,6 +1,6 @@
 # Knowrage-google-cloud-vision
 
-## Description
+## Overview
 
 Google Cloud Vision APIを使用し、画像ファイル（動画ファイル）を解析することで、
 画像ファイル（動画ファイル）に写しだされている物体をラベルとして抽出する。  
@@ -20,6 +20,10 @@ Google Cloud Vision APIを使用し、画像ファイル（動画ファイル）
 ## Installation
 
     $ git clone https://github.com/hiroki-Fukumoto/knowrage-google-cloud-vision.git
+
+## Install
+
+- 「NuGet パッケージの管理」から `Google.Cloud.Vision.V1` をインストール
 
 # Authors
 
